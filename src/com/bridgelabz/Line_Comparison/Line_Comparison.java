@@ -7,7 +7,7 @@ public class Line_Comparison {
 
 	        double x1 = 1;
 	        double y1 = 1;
-
+	        
 	        double x2 = 5;
 	        double y2 = 5;
 
